@@ -3,7 +3,8 @@
 
 <p align="center">
   <h3 align="center">Awesome Burst Image Restoration (Updated 2024/12/17)</h3>
-  <p align="center">A curated list of resources for Awesome Burst Image Restoration
+  <h3 align="center">  多帧图像修复与增强 (更新于 2024/12/17)</h>
+  <h4 align="center">A curated list of resources for Awesome Burst Image Restoration
     <br />
     <br />
     <br />
