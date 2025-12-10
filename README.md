@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-  <h3 align="center">Awesome Burst Image Restoration and Enhancement (Updated 2024/12/17)</h3>
+  <h3 align="center">Awesome Burst Image Restoration and Enhancement (Updated 2025/12/10)</h3>
   <h3 align="center">  多帧图像修复与增强 (更新于 2025/12/10)</h>
   <h4 align="center">A curated list of resources for Burst Image Restoration and Enhancement 
     <br />
