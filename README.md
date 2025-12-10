@@ -75,8 +75,6 @@
 | 2025 | CVPRW|         [Efficient Burst Super-Resolution with One-step Diffusion](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Kawai_Efficient_Burst_Super-Resolution_with_One-step_Diffusion_CVPRW_2025_paper.html)         |   None  |   |
 | 2025 | NeurIPS |         [BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes](https://arxiv.org/abs/2510.09996)         |   [Code](https://github.com/qulishen/BurstDeflicker)  |   |
 
-Lightweight Super-Resolution for Real-World Burst Images Captured by Handheld Camera Sensors Based on Partial Differential Equations
-
 ## Dataset
 
 | Year | Pub |            Name            |                                                                                                                           Paper                                                                                                                           |                           Downlink                           |
